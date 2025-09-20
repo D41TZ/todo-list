@@ -1,4 +1,5 @@
 // FEITO PARA TRABALHO DE FACULDADE!
+// Tempo gasto: 2 horas e meia.
 // Existem observações em forma de comentários em outros componentes, explicando a razão de alguma decisões que faria diferente em um projeto real.
 // A "confusão" de divs na renderização é para manter o layout centralizado e com scroll quando necessário, sem mover o background.
 
