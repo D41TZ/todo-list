@@ -1,0 +1,21 @@
+html, body, #root, #screen {
+    height: 100%;
+}
+
+#screen {
+    background: linear-gradient(300deg,#000363,#00013a);
+    background-size: 120% 120%;
+    animation: gradient-animation 12s ease infinite;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
